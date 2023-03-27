@@ -1,13 +1,14 @@
 # Descrição
 
-A construção deste arquivo serviu como estudo da biblioteca "simpy". Queria aprendê-la para conseguir aplicá-la na aula de Sistemas e Sinais.
+A construção deste arquivo serviu como estudo da biblioteca "simpy". Queria aprender a utilizar esta biblioteca para conseguir aplicá-la na aula de Sistemas e Sinais.
 Video-base para o arquivo é muito bom, recomendo.
+
 Além disso, utilizei este projeto para, também, estudar Latex.
 
 
 # Referência do Sympy
 * [Vídeo estudado](https://www.youtube.com/watch?v=1yBPEPhq54M&t=193s)
-* [Canal no YTB](https://www.youtube.com/@MrPSolver)
+* [Canal no YTB do criador do vídeo](https://www.youtube.com/@MrPSolver)
 * [Repositório-base](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Tutorial%20Series/sympy1.ipynb)
 
 
