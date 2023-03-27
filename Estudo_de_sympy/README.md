@@ -8,6 +8,7 @@ Além disso, utilizei este projeto para, também, estudar Latex.
 # Referência do Sympy
 * [Vídeo estudado](https://www.youtube.com/watch?v=1yBPEPhq54M&t=193s)
 * [Canal no YTB](https://www.youtube.com/@MrPSolver)
+* [Repositório-base](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Tutorial%20Series/sympy1.ipynb)
 
 
 # Referência de Latex
